@@ -18,7 +18,6 @@ endif
 # Apps
 PRODUCT_PACKAGES += \
     AvatarPicker \
-    Glimpse \
     LatinIME
 
 ifeq ($(PRODUCT_TYPE), go)
