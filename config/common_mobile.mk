@@ -19,7 +19,6 @@ endif
 PRODUCT_PACKAGES += \
     AvatarPicker \
     Gallery2 \
-    Glimpse \
     LatinIME
 
 ifeq ($(PRODUCT_TYPE), go)
